@@ -1,0 +1,9 @@
+O UNIVERSO DA SOPHIA
+
+1. Extraia o arquivo ZIP.
+2. Abra index.html no Chrome ou em outro navegador moderno.
+3. A música Como Tudo Deve Ser, do Charlie Brown Jr., é carregada pelo player oficial do YouTube e precisa de internet.
+4. Toque em Abrir meu universo para começar a animação e enviar o comando para tocar a música.
+5. Se o som não começar, toque no botão de música ou diretamente nos controles do player.
+
+Importante: alguns visualizadores de arquivos e navegadores bloqueiam vídeos incorporados quando o HTML é aberto diretamente do armazenamento do celular. Se isso acontecer, publique o site em uma hospedagem HTTPS, como GitHub Pages, e abra o link publicado.
